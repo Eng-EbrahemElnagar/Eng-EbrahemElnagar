@@ -11,9 +11,10 @@
 - Routing and switching: VLANs, 802.1Q, inter-VLAN routing, STP/RSTP, OSPF, EIGRP, HSRP, static routing, network segmentation
 - TCP/IP, OSI model, IPv4/IPv6, subnetting, ACLs, NAT, port security
 - VPN and firewall fundamentals; network troubleshooting and fault isolation
-- Hands-on labs (Cisco Packet Tracer): VLANs, inter-VLAN routing (router-on-a-stick, SVI), STP/RSTP, EtherChannel (LACP), static routing (IPv4/IPv6), OSPF, ACLs, NAT, HSRP, port security, SSH; GNS3 per CV
+- Hands-on labs :
+VLANs, inter-VLAN routing (router-on-a-stick, SVI), STP/RSTP, EtherChannel (LACP), static routing (IPv4/IPv6), OSPF, ACLs, NAT, HSRP, port security, SSH; GNS3 per CV
 
-## Practical labs (Cisco Packet Tracer)
+## Practical labs
 Hands-on labs completed and tested:
 - Switching: VLANs and trunking, STP/RSTP, Multiple Spanning Tree, EtherChannel (LACP), port security, SSH device hardening
 - Routing: static routing (IPv4/IPv6), OSPF, inter-VLAN routing (router-on-a-stick, SVI), HSRP gateway redundancy
